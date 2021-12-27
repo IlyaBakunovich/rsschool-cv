@@ -3,7 +3,7 @@
 ## Contact info:
 
 * **Phone:** +375 (29) 693-79-24
-* **Email:** bakunovich.ilya@gmail.com
+* **Email:** [bakunovich.ilya@gmail.com]
 * **GitHub:** @IlyaBakunovich
 
 ## About me
