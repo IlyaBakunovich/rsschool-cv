@@ -19,5 +19,5 @@ I am 36 years old, I am temporarily out of work. I need a job with which I will 
 
 ## Languages
 
-Russian - native speaker.
-English - A0 (A1 in process).
+* Russian - native speaker
+* English - A0 (A1 in process)
