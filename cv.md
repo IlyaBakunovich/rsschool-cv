@@ -4,7 +4,7 @@
 
 * **Phone:** +375 (29) 693-79-24
 * **Email:** [bakunovich.ilya@gmail.com](bakunovich.ilya@gmail.com)
-* **GitHub:** {@IlyaBakunovich]()
+* **GitHub:** [@IlyaBakunovich]()
 
 ## About me
 
