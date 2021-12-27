@@ -1,8 +1,6 @@
 ###### Bakunovich Ilya
 
+##### Contact info:
 
-###### Contact info:
-
-
-* __Phone__ : +375 (29) 693 79 24
-* 
+* **Phone:** +375 (29) 693-79-24
+* **Email:** bakunovich.ilya@gmail.com
