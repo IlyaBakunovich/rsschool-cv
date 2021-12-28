@@ -4,7 +4,7 @@
 
 * **Phone:** +375 (29) 693-79-24
 * **Email:** [bakunovich.ilya@gmail.com](bakunovich.ilya@gmail.com)
-* **GitHub:** [@IlyaBakunovich](@IlyaBakunovich)
+* **Discord:** Ilya Bakunovich#2119
 
 ## About me
 
@@ -16,13 +16,16 @@ I am 36 years old, I am temporarily out of work. I need a job with which I will 
   - Hard work
   - Team play
 
-*Move with the planet...*
+## Skills
+
+___in process... Move with the planet...___
 
 ## Education
 
 * International institute of labor and social relations
   - economics and enterprise management
-* Udemy
+  
+* RSSchool
   - HTML (in process…)
   - CSS (in process…)
   - JavaScript (in process…)
@@ -35,6 +38,10 @@ function multiply(a, b){
   return a * b
 }
 ```
+
+## Project
+
+[https://ilyabakunovich.github.io/rsschool-cv/cv](https://ilyabakunovich.github.io/rsschool-cv/cv)
 
 ## Languages
 
