@@ -17,7 +17,6 @@ I am 36 years old, I am temporarily out of work. I need a job with which I will 
   - Team play
 
 ## Skills
-
 ___in process... Move with the planet...___
 
 ## Education
