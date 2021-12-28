@@ -4,7 +4,7 @@
 
 * **Phone:** +375 (29) 693-79-24
 * **Email:** [bakunovich.ilya@gmail.com](bakunovich.ilya@gmail.com)
-* **GitHub:** [@IlyaBakunovich]()
+* **GitHub:** [@IlyaBakunovich](@IlyaBakunovich)
 
 ## About me
 
@@ -30,7 +30,11 @@ I am 36 years old, I am temporarily out of work. I need a job with which I will 
 
 ## Code Examples
 
-
+```
+function multiply(a, b){
+  return a * b
+}
+```
 
 ## Languages
 
