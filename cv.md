@@ -39,7 +39,7 @@ function multiply(a, b){
 
 ## Project
 
-[]()
+[https://ilyabakunovich.github.io/rsschool-cv/](https://ilyabakunovich.github.io/rsschool-cv/)
 
 ## Languages
 
