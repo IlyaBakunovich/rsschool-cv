@@ -47,20 +47,25 @@ body {
 }
 
 h1 {
-    font: 48px 'Times New Roman', Times, serif;
+    font: 108px 'Times New Roman', Times, serif;
     color: rgba(255, 255, 255, .75);
-
+    padding: 10px auto;
+    margin: 10px auto;
 }
 
 h2 {
     font: 32px 'Times New Roman', Times, serif;
     color: rgba(255, 255, 255, .9);
     text-decoration: underline;
+    padding: 10px auto;
+    margin: 10px auto;
 }
 
 h3 {
-    font: 24x 'Times New Roman', Times, serif;
+    font: 24px 'Times New Roman', Times, serif;
     color: rgba(255, 255, 255, .9);
+    padding: 10px auto;
+    margin: 10px auto;
 }
 
 .container {
@@ -70,4 +75,27 @@ h3 {
 
 header, footer {
     height: 20vh;
+    padding: 20px auto;
+    margin: 20px auto;
+  }
+
+code {
+    background-color:cadetblue;
+    padding: 10px auto;
+    margin: 10px auto;
+  }
+
+  p {
+    padding: 10px auto;
+    margin: 10px auto; 
+  }
+
+  img {
+      padding: 10px auto;
+      margin: 10px auto;
+  }
+
+  .border {
+    border: 2px solid rgba(255, 255, 255, .9);
+    border-radius: 25% 75% 75% 25%;
   }
